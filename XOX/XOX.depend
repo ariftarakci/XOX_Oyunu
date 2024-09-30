@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1727732687 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"oyunAlani.h"
+	"Kontrol.h"
+	"kazanan.h"
+
+1727722685 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\oyunalani.c
+	<stdio.h>
+	"oyunAlani.h"
+	<windows.h>
+
+1727722633 c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\oyunalani.h
+
+1727732653 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\kontrol.c
+	"Kontrol.h"
+	<string.h>
+
+1727723917 c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\kontrol.h
+
+1727726001 c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\kazanan.h
+
+1727731411 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\xox\kazanan.c
+	"kazanan.h"
+	"Kontrol.h"
+
